@@ -2,3 +2,8 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/gavinzmq/pool/master/sub.list
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/changfengoss/pub/main/data/2022_05_23/lMVzb8.yaml
