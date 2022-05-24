@@ -7,3 +7,8 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/changfengoss/pub/main/data/2022_05_23/lMVzb8.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
