@@ -1,7 +1,7 @@
 # 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/gavinzmq/pool/master/sub.list
+# - type: webfuzzsub
+#   options:
+#     url: https://raw.githubusercontent.com/gavinzmq/pool/master/sub.list
 
 # clash格式订阅链接
 - type: clash
