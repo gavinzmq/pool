@@ -1,20 +1,20 @@
 # clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-
-
-# 模糊抓取订阅链接
-# - type: webfuzzsub
+# - type: clash
 #   options:
-#     url: https://raw.githubusercontent.com/gavinzmq/pool/master/sub.list
+#     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
 
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/changfengoss/pub/main/data/2022_05_23/lMVzb8.yaml
 
-# clash格式订阅链接
-- type: clash
+模糊抓取订阅链接
+- type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
+    url: https://raw.githubusercontent.com/gavinzmq/pool/master/sub.list
+
+# # clash格式订阅链接
+# - type: clash
+#   options:
+#     url: https://raw.githubusercontent.com/changfengoss/pub/main/data/2022_05_23/lMVzb8.yaml
+
+# # clash格式订阅链接
+# - type: clash
+#   options:
+#     url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
