@@ -15,6 +15,11 @@
     channel: ssrList
     num: 200
 
+- type: tgchannel
+  options:
+    channel: Jsnzk
+    num: 200
+
 # # clash格式订阅链接
 # - type: clash
 #   options:
